@@ -20,5 +20,10 @@ npm install
 ### To start the server enter the following command
 
 ```
-npx expo 
+npx expo App.js    
+```
+or
+
+```
+npm run start
 ```
