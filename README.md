@@ -5,9 +5,20 @@
 ## Usage
 
 
-### Clone this repo using the following github cli in you parent folder
+### Clone this repo using the following Github-CLI command in you parent folder
 
 ```
 gh repo clone ShivaMaurya06/NewsNative
 
+```
+### Inside your parent folder run the following command to install dependencies
+
+```
+npm install
+```
+
+### To start the server enter the following command
+
+```
+npx expo 
 ```
