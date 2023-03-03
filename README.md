@@ -7,6 +7,7 @@
 
 ### Clone this repo using the following github cli in you parent folder
 
----
+```
 gh repo clone ShivaMaurya06/NewsNative
----
+
+```
