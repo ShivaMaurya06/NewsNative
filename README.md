@@ -1,6 +1,8 @@
 # NewsNative
 > A news app made with React Native which shows updated news of India and has a category section(Business, Technology, Sports and many more) to get news about.
 
+## API used
+
 
 ## Usage
 
@@ -9,7 +11,6 @@
 
 ```
 gh repo clone ShivaMaurya06/NewsNative
-
 ```
 ### Inside your parent folder run the following command to install dependencies
 
