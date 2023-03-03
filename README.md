@@ -1,7 +1,7 @@
 # NewsNative
 > A news app made with React Native which shows updated news of India and has a category section(Business, Technology, Sports and many more) to get news about. <br />
 
-Use the following link to get a demo of this application.
+Use the following link to get a demo of this application.<br />
 https://expo.dev/accounts/shiva_06/projects/newsnative/builds/7e2435cc-8c7c-4cd3-abd2-0b0457525a2e
 
 
